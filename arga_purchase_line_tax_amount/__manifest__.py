@@ -1,7 +1,7 @@
 {
     "name": "Tax Amount on Purchase Line",
     "version": "18.0.1.0.0",
-    "category": "Inventory/Purchase",
+    "category": "Purchase",
     "summary": "Show the tax amount on request for quotation and purchase order lines",
     "author": "Arga Dwiki Suwandi",
     "maintainer": "Arga Dwiki Suwandi",
